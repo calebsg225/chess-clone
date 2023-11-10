@@ -1,1 +1,1 @@
-#[Chess](https://calebsg225.github.io/chess-clone/)
+# [Chess](https://calebsg225.github.io/chess-clone/)
